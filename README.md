@@ -6,7 +6,7 @@ Curated resources for learning and mastering Rust programming
 * [(Ko) The Rust Programming Language](https://doc.rust-kr.org/) -
 * [Tour of Rust](https://tourofrust.com/index.html) - 
 * [The Algorithms - Rust](https://github.com/TheAlgorithms/Rust) - 
-
+* [100 Exercises To Learn Rust](https://rust-exercises.com/100-exercises/) - 
 ## Applications
 
 ### Blockchain
